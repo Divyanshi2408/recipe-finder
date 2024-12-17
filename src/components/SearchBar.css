@@ -1,0 +1,36 @@
+/* Container for Search Bar */
+.search-bar{
+    display: flex;
+   padding: 20px;
+  }
+  
+  /* Search Input Field */
+  .search{
+    background: #cccccc49;
+    padding: 10px;
+    color: white;
+    width: 250px;
+    border: 1px solid #cccccc;
+    font-size: 1rem;
+  }
+  
+  .submit{
+    padding: 10px 20px;
+    border: 1px solid #ccc;
+    font-size: 1rem;
+    background: linear-gradient(to bottom right, #EBB559,#BE7319);
+    margin-left: 10px;
+  }
+  /* Voice Search Button */
+  .voice{
+    padding: 10px ;
+    width: 80px;
+    cursor: pointer;
+    border: none;
+    color: black;
+    background: #cccccc49;
+    color: white;
+    border: 1px solid #ccc;
+  }
+
+  
